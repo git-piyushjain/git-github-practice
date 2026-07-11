@@ -1,2 +1,3 @@
 Hello Git!
 This is my first repository.
+Today I have learned Commit and Push.
